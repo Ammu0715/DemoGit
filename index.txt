@@ -1,0 +1,31 @@
+1. What is Java?
+Ans:Java is a high-level, object-oriented programming language and computing platform first released by Sun Microsystems in 1995. 
+It is designed to have as few implementation dependencies as possible, which means that compiled Java code can run on all platforms 
+that support Java without the need for recompilation.
+2.What is a functional interface in Java?
+Ans: A functional interface in Java is an interface that has exactly one abstract method.
+They can have any number of default or static methods. Functional interfaces are used primarily in lambda expressions and method references.
+3. What is a thread in Java?
+Ans:A thread in Java is a lightweight process that allows concurrent execution of code. 
+The Thread class and Runnable interface are used to create and manage threads.
+4.What is the JVM?
+Ans:he Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM converts Java bytecode into machine language and executes it. This allows Java programs to be platform-independent.
+5.What is an object in Java?
+Ans:An object is an instance of a class. It contains state (represented by fields) and behavior (represented by methods). 
+Objects are created using the new keyword followed by the class constructor.
+6. What is a class in Java?
+Ans:A class is a blueprint or template for creating objects and defines a type of object according to the methods and variables 
+that are included in the class. A class contains fields (variables) and methods to describe the behavior of an object.
+7.What is inheritance in Java?
+Ans: Inheritance is a mechanism in Java where one class (the subclass) inherits the fields and methods of another class (the superclass). 
+It allows for code reusability and the creation of hierarchical relationships between classes.
+8.What is polymorphism in Java?
+Ans: Polymorphism is the ability of an object to take on many forms. 
+In Java,polymorphism is mainly achieved through method overriding(run-time polymorphism) and method overloading(compile-time polymorphism).
+9. What is encapsulation in Java?
+Ans: Encapsulation is the process of wrapping code and data together into a single unit. 
+In Java,it is achieved by using private fields and providing public getter and setter methods to access and update the values of the fields
+10.What is an exception in Java?
+Ans: An exception is an event that disrupts the normal flow of the program. In Java, exceptions are handled using try-catch blocks.
+ Exceptions can be checked (compile-time) or unchecked (run-time).
