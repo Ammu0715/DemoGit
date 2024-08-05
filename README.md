@@ -1,1 +1,2 @@
 # DemoGit
+Example of GitDemo
